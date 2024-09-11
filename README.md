@@ -19,6 +19,17 @@ The **Word and Letter Counter** is an application that counts the number of word
 1. **Install Node.js** (if not already installed): [Node.js Official Website](https://nodejs.org/).
    
 2. **Clone the repository**:
-   ```bash
+   ```
    git clone <repository-url>
    cd word-letter-counter
+  
+3. **Install dependencies**:
+   
+```
+npm install
+```
+
+4. **Start the app**:
+```
+npm start
+
