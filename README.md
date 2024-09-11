@@ -31,3 +31,14 @@ npm install
 
 The app should open automatically in your browser at ``` http://localhost:3000.```
 
+word-letter-counter/
+│
+├── public/          # Static files
+├── src/             # Application source code
+│   ├── App.js       # Main component
+│   ├── App.css      # Stylesheet for the app
+│   └── index.js     # Entry point
+│
+├── package.json     # Project metadata and dependencies
+└── README.md        # Project documentation
+
