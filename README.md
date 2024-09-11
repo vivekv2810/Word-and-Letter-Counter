@@ -29,7 +29,5 @@ The **Word and Letter Counter** is an application that counts the number of word
 npm install
 ```
 
-4. **Start the app**:
-```
-npm start
+The app should open automatically in your browser at ``` http://localhost:3000.```
 
