@@ -31,14 +31,29 @@ npm install
 
 The app should open automatically in your browser at ``` http://localhost:3000.```
 
-word-letter-counter/
-│
-├── public/          # Static files
-├── src/             # Application source code
-│   ├── App.js       # Main component
-│   ├── App.css      # Stylesheet for the app
-│   └── index.js     # Entry point
-│
-├── package.json     # Project metadata and dependencies
-└── README.md        # Project documentation
+## 🔴 How It Works
 
+1. **Input Area**: The user enters text in the text area.
+
+2. **Counting Logic**: The app counts:
+
+- **Words** by splitting the text by spaces.
+- **Letters** by removing non-alphabetic characters and spaces.
+
+3. **Real-time Display**: The word and letter counts are updated in real-time and displayed below the input area.
+
+## 🔴 Future Enhancements
+
+1. **Dark Mode**: Add support for dark mode.
+
+2. **Support for Additional Languages**: Expand the letter counting logic to support accented characters.
+
+3. **Export Text**: Allow users to download their input as a text file.
+
+## 🔴 License
+
+This project is licensed under the MIT License.
+
+## Screenshot
+
+![Screenshot 2024-09-11 160257](https://github.com/user-attachments/assets/b0ffa4c3-3734-430c-90bb-63704e4f7b91)
